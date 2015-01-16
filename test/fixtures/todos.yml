@@ -1,9 +1,7 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
-
 one:
-  title: MyString
-  status: 1
+  title: "Walk the dog"
+  status: 0
 
 two:
-  title: MyString
-  status: 1
+  title: "Take out the trash"
+  status: 0
